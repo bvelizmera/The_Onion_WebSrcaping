@@ -1,0 +1,8 @@
+__pychace__
+venv
+.venv
+.env
+.DS_Store
+*.csv
+*.json
+
